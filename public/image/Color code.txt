@@ -1,0 +1,18 @@
+Background color code = #E6E8FF
+Primary main color = #7582FF
+Left menu gradient = #919BFF(100%) + #919BFF(10%)
+Textbox border color = #7582FF
+
+Success color = #559957
+Success Background = #559957(10%)
+Reject color = #E63A2E
+Reject Background =  #E63A2E(10%)
+Alert Dialog Red color = #EE5521
+Pending color = #E49001
+Pending Background = #E49001(10%)
+
+Text Color
+Header = #191919
+sub-header = #303030
+Body = #707070
+Placeholder = #AFBOB3
