@@ -13,6 +13,7 @@ import { useTranslation } from "react-i18next";
 
 const DashboardIndex = () => {
   const [series, setSeries] = useState([]); //for Apex chart data
+  const [mgmg, setMgMg] = useState([]); //for Apex chart data
   const [topData, setTopData] = useState([]); // for top display data
   const [barHeigh, setBarHeigh] = useState(0); // bar heigh to adjust the graph
   const [success, setSuccess] = useState([]); // bar heigh to adjust the graph
